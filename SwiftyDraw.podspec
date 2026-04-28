@@ -10,9 +10,9 @@ Pod::Spec.new do |s|
 
   s.homepage         = 'https://github.com/Awalz/SwiftyDraw'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Linus Geffarth' => 'linus@geffarth.com' }
+  s.author           = { 'Linus Geffarth' => 'hello@ogli.codes' }
   s.source           = { :git => 'https://github.com/Awalz/SwiftyDraw.git', :tag => s.version }
-  s.social_media_url = 'https://twitter.com/linusgeffarth'
+  s.social_media_url = ''
 
   s.ios.deployment_target = '9.0'
   s.swift_version = '5.0'
